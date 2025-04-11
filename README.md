@@ -1,2 +1,6 @@
-# NYC-Taxi-Pipeline
- A real-time data pipeline for NYC taxi trip analytics using Kafka, Spark, Snowflake, and Airflow.
+# NYC Taxi Trip Real-Time Analytics Pipeline
+
+A real-time data engineering project to process NYC taxi trip data using Apache Kafka, PySpark, Snowflake, and Airflow.
+
+## Status
+Phase 1: Setting up environment and tools.
